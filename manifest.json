@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Pilotos FBM",
+  "version": "1.3",
+  "description": "Desplegable con un listado de pilotos de FBM, sus # y sus condiciones",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "imagenes/logo.png"
+  }
+}
